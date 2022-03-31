@@ -1,6 +1,6 @@
 <h1 align="center"><img align="center" src="https://readme-typing-svg.herokuapp.com?duration=7000&size=30&color=4281F3&center=true&lines=Hi+there!+I'm+Jessica+👋"/></h1>
 
-<h5 align="left"> 👩‍🎓 I'm an aeronautical engineer with a master's degree in the field of fluid mechanics, almost getting my Phd degree.</h5>
+<h5 align="left"> 👩‍🎓 I'm an aeronautical engineer with a master's degree in the field of fluid mechanics, and almost getting my Phd degree.</h5>
 <h5 align="left"> 🚀 I'm looking for a career change simply because of my passion ❤️ for programming.</h5>
 <h5 align="left"> 💻 I am fascinated by technologies and somehow I want to contribute with my knowledge and experience in the development of new ones.</h5>
 
