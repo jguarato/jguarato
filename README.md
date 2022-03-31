@@ -1,4 +1,8 @@
-<h1 align="center"><img align="center" src="https://readme-typing-svg.herokuapp.com?duration=7000&size=30&color=4281F3&center=true&lines=Hi+there!+I'm+Jessica+👋🏻"/></h1>
+<div align="center">
+  <img  height=300 src="https://user-images.githubusercontent.com/82293939/161130326-9209376c-025a-4d30-8b62-07feda43ca9b.gif"/>
+  <p><sup><a href="http://www.freepik.com">Modified from pikisuperstar design | freepik </a></sup></p>
+</div>
+
 
 <h5 align="left"> 👩🏻‍🎓 I'm an aeronautical engineer with a master's degree in the field of Fluid Mechanics, and almost getting my Phd degree.</h5>
 <h5 align="left"> 👩🏻‍💻 I have experience in developing Computational Fluid Dynamics (CFD) software.</h5>
