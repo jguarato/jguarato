@@ -1,12 +1,13 @@
-<h1 align="center"><img align="center" src="https://readme-typing-svg.herokuapp.com?duration=7000&size=30&color=4281F3&center=true&lines=Hi+there!+I'm+Jessica+👋"/></h1>
+<h1 align="center"><img align="center" src="https://readme-typing-svg.herokuapp.com?duration=7000&size=30&color=4281F3&center=true&lines=Hi+there!+I'm+Jessica+👋🏻"/></h1>
 
-<h5 align="left"> 👩‍🎓 I'm an aeronautical engineer with a master's degree in the field of fluid mechanics, and almost getting my Phd degree.</h5>
+<h5 align="left"> 👩‍🎓 I'm an aeronautical engineer with a master's degree in the field of Fluid Mechanics, and almost getting my Phd degree.</h5>
+<h5 align="left"> 👩🏻‍💻 I have experience in developing Computational Fluid Dynamics (CFD) software.</h5>
 <h5 align="left"> 🚀 I'm looking for a career change simply because of my passion ❤️ for programming.</h5>
-<h5 align="left"> 💻 I am fascinated by technologies and somehow I want to contribute with my knowledge and experience in the development of new ones.</h5>
+<h5 align="left"> 💻 I am fascinated by technologies and I want to contribute somehow with my knowledge and experience in the development of new ones.</h5>
 
 <br>
 
-<h4 align="left">✔️ I have experience with</h4>
+<h5 align="left">✔️ Some languages that I've worked with are:</h5>
 
 <div align="center">
   <code><img height=40 src="https://raw.githubusercontent.com/fortran-lang/fortran-lang.org/be10cecc096dac6a57b13fae65b4a6ffa6cc32dd/assets/img/fortran-logo.svg"/></code>
@@ -14,13 +15,13 @@
   <code><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/></code>
 </div>
 
-<h4 align="left">📖 but I'm currently learning</h4>
+<h5 align="left">📖 But I'm currently learning:</h5>
 
 <div align="center">
   <code><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></code>
-  <code><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
-  <code><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
-  <code><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
+  <code><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></code>
+  <code><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></code>
+  <code><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/></code>
 </div>
 
 <br>
