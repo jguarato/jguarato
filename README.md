@@ -41,7 +41,7 @@
   <h3>Connect with me:</h3>
   <a href="mailto:jessicags6@gmail.com" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="30" width="30"/></a>
   <a href="https://codepen.io/jguarato" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" height="30" width="30"/></a>
-  <a href="https://www.linkedin.com/in/jessica-guarato-de-freitas-santos-9b2074114/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30"/></a>
+  <a href="https://www.linkedin.com/in/jguarato/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30"/></a>
 </div>
 
 <br>
