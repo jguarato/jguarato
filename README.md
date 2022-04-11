@@ -32,7 +32,7 @@
 <p align="center">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jguarato&theme=default&title_color=4281F3&icon_color=4281F3&bg_color=eff1f3&show_icons=true" alt="jguarato"/>
 </p>
-<!--<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jguarato&theme=default&title_color=4281F3&bg_color=eff1f3"/></p>-->
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jguarato&theme=default&title_color=4281F3&bg_color=eff1f3"/></p>
 
 <br>
 <br>
