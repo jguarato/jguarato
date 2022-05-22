@@ -9,21 +9,19 @@
 
 <br>
 
-<h5 align="left">✔️ Some languages that I've worked with are:</h5>
+<h5 align="left">✔️ I've worked with:</h5>
 <p align="left">
-  <img height=200 align="center" src="https://user-images.githubusercontent.com/82293939/161164915-e6d76e66-9aed-4acd-83fc-64c2473f4968.png"/>
+  <code><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/></code>
   <code><img height=40 src="https://raw.githubusercontent.com/fortran-lang/fortran-lang.org/be10cecc096dac6a57b13fae65b4a6ffa6cc32dd/assets/img/fortran-logo.svg"/></code>
   <code><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"/></code>
-  <code><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/></code>
 </p>
 
-<h5 align="left">📖 But I'm currently learning:</h5>
+<h5 align="left">📖 I'm currently studying:</h5>
 <p align="left">
-  <img height=200 align="center" src="https://user-images.githubusercontent.com/82293939/161164244-c2674f4d-ffaa-4ad6-a885-9120f9eed22c.png"/>
-  <code><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></code>
   <code><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></code>
   <code><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></code>
   <code><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/></code>
+  <!--<code><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></code>-->
 </p>
 
 <br>
