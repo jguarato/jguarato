@@ -1,5 +1,5 @@
 <p align="left">
-  <img height=200 src="https://user-images.githubusercontent.com/82293939/161163154-e0e73614-8d92-421f-9f34-acc87c57ebae.gif"/>
+  <img height=300 src="https://user-images.githubusercontent.com/82293939/169710356-b7342616-3533-4db3-a9bf-1d39218f17b9.png"/>
 </p>
 
 <h5 align="left"> 👩🏻‍🎓 I'm an aeronautical engineer with a master's degree in the field of Fluid Mechanics, and almost getting my Phd degree.</h5>
