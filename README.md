@@ -3,7 +3,7 @@
 </p>
 
 <h5 align="left"> 👩🏻‍🎓 I'm an aeronautical engineer with a master's degree in the field of Fluid Mechanics, and almost getting my Phd degree.</h5>
-<h5 align="left"> 👩🏻‍💻 I have experience in developing Computational Fluid Dynamics (CFD) softwares.</h5>
+<h5 align="left"> 👩🏻‍💻 I have experience in developing and working with Computational Fluid Dynamics (CFD) softwares.</h5>
 <h5 align="left"> 🚀 I'm looking for a career change because of my passion for programming.</h5>
 <h5 align="left"> 💻 I am fascinated by technologies and I want to contribute with my knowledge and experience in the development of new ones.</h5>
 
