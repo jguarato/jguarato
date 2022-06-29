@@ -39,7 +39,7 @@
 <br>
 
 <div align="right">
-  <h3>➕ See more about me:</h3>
+  <h3> See more 👇🏼  </h3>
   <a href="https://www.linkedin.com/in/jguarato/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30"/></a>
   <a href="https://codepen.io/jguarato" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" height="30" width="30"/></a>
   <a href="https://www.freecodecamp.org/jguarato" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/freecodecamp.svg" height="30" width="30"/></a>
