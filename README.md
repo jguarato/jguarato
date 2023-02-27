@@ -5,7 +5,7 @@
 <h2>About Me</h2>
 <h5 align="left"> 👩🏻‍🎓 I'm an aeronautical engineer with a master's degree in the field of Fluid Mechanics, and almost getting my Phd degree.</h5>
 <h5 align="left"> 👩🏻‍💻 I have experience in developing and working with Computational Fluid Dynamics (CFD) softwares.</h5>
-<h5 align="left"> 🚀 I'm looking for a career change because of my passion for programming.</h5>
+<h5 align="left"> 🚀 I'm looking for a career change to IT because I love programming.</h5>
 <h5 align="left"> 💻 I am fascinated by technologies and I want to contribute with my knowledge and experience in the development of new ones.</h5>
 
 <br>
@@ -19,12 +19,14 @@
   <code><img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></code>
 </p>
 
-<h5 align="left">📖 But I'm currently studying and focusing on:</h5>
+<h5 align="left">📖 But I'm currently studying new techs, and I've been learning:</h5>
 <p align="left">
   <code><img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></code>
   <code><img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></code>
   <code><img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/></code>
-  <!--<code><img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></code>-->
+  <code><img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/></code>
+  <code><img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/></code>
+  <code><img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/></code>
 </p>
 
 <br>
