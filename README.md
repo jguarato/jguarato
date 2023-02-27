@@ -19,7 +19,7 @@
   <code><img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></code>
 </p>
 
-<h5 align="left">📖 But I am currently studying web development, and I have been learning and focusing on:</h5>
+<h5 align="left">📖 But I am currently studying web development, so I have been learning and focusing on:</h5>
 <p align="left">
   <code><img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></code>
   <code><img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></code>
