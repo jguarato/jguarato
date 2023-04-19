@@ -34,9 +34,9 @@
 
 <h2> GitHub Stats </h2>
 <p align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=jguarato&title_color=4b959f&icon_color=85D3DD&bg_color=f6f8fa&show_icons=true&hide_border=true" alt="jguarato"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jguarato&title_color=4b959f&icon_color=85D3DD&bg_color=f6f8fa&show_icons=true&hide_border=true" alt="jguarato"/>
   <img width="10em"/>
-  <img  height="200em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=jguarato&layout=compact&title_color=4b959f&bg_color=f6f8fa&hide_border=true"/>
+  <img  height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=jguarato&layout=compact&title_color=4b959f&bg_color=f6f8fa&hide_border=true"/>
 </p>
 
 <br>
