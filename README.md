@@ -34,15 +34,16 @@
 
 <h2> GitHub Stats </h2>
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jguarato&theme=default&title_color=4281F3&icon_color=4281F3&bg_color=eff1f3&show_icons=true" alt="jguarato"/>
-  <img  height="150em"src="https://github-readme-stats.vercel.app/api/top-langs?username=jguarato&layout=compact&theme=default&title_color=4281F3&bg_color=eff1f3"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=jguarato&title_color=4b959f&icon_color=85D3DD&bg_color=f6f8fa&show_icons=true&hide_border=true" alt="jguarato"/>
+  <img width="10em"/>
+  <img  height="200em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=jguarato&layout=compact&title_color=4b959f&bg_color=f6f8fa&hide_border=true"/>
 </p>
 
 <br>
 <br>
 
 <hr>
-<img align="right" src="https://komarev.com/ghpvc/?username=jguarato&color=4281F3">
+<img align="right" src="https://komarev.com/ghpvc/?username=jguarato&color=4b959f">
 
 <br>
 <br>
