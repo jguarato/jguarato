@@ -1,12 +1,11 @@
-<p align="left">
+<!--<p align="left">
   <img height=310 src="https://user-images.githubusercontent.com/82293939/169710356-b7342616-3533-4db3-a9bf-1d39218f17b9.png"/>
-</p>
+</p>-->
 
 <h2>About Me</h2>
-<h5 align="left"> 👩🏻‍🎓 I'm an aeronautical engineer with a master's degree in the field of Fluid Mechanics, and almost getting my Phd degree.</h5>
-<h5 align="left"> 👩🏻‍💻 I have experience in developing and working with Computational Fluid Dynamics (CFD) softwares.</h5>
-<h5 align="left"> 🚀 I'm looking for a career change to IT because I love programming.</h5>
-<h5 align="left"> 💻 I am fascinated by technologies and I want to contribute with my knowledge and experience in the development of new ones.</h5>
+<h5 align="left"> 👩🏻‍🎓 I'm an aeronautical engineer with a PhD degree in the field of Fluid Mechanics.</h5>
+<h5 align="left"> 👩🏻‍💻 I have experience in scientific programming with a main focus on Computational Fluid Dynamics (CFD).</h5>
+<h5 align="left"> 💙 I'm passionate about code development, so I'm willing to continually learn new programming languages and explore different fields.</h5>
 
 <br>
 
@@ -19,7 +18,7 @@
   <code><img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></code>
 </p>
 
-<h5 align="left">📖 But I am currently studying web development, so I have been learning and focusing on:</h5>
+<h5 align="left">But I know a little:</h5>
 <p align="left">
   <code><img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></code>
   <code><img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></code>
@@ -27,6 +26,7 @@
   <code><img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/></code>
   <code><img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/></code>
   <code><img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/></code>
+  <code><img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></code>
 </p>
 
 <br>
@@ -54,6 +54,8 @@
   <a href="https://codepen.io/jguarato" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" height="30" width="30"/></a>
   <a href="https://www.freecodecamp.org/jguarato" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/freecodecamp.svg" height="30" width="30"/></a>
   <a href="https://leetcode.com/jguarato/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" height="30" width="30"/></a>
+  <a href="http://lattes.cnpq.br/3055484523741519" target="blank"><img src="http://www.cchla.ufpb.br/proling/wp-content/uploads/2021/11/icone-lattes-1.png" height="30" width="30"/></a>
+  <a 
   </a>
   </a>
 </div>
