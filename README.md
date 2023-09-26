@@ -3,13 +3,14 @@
 </p>-->
 
 <h2>About Me</h2>
-<h5 align="left"> 👩🏻‍🎓 I'm an aeronautical engineer with a PhD degree in the field of Fluid Mechanics.</h5>
-<h5 align="left"> 👩🏻‍💻 I have experience in scientific programming with a main focus on Computational Fluid Dynamics (CFD).</h5>
-<h5 align="left"> 💙 I'm passionate about code development, so I'm willing to continually learn new programming languages and explore different fields.</h5>
-
+<b>
+  <p align="left"> 👩🏻‍🎓 I'm an aeronautical engineer with a PhD degree in the field of Fluid Mechanics.</p>
+  <p align="left"> 👩🏻‍💻 I have experience in scientific programming with a main focus on Computational Fluid Dynamics (CFD).</p>
+  <p align="left"> 💙 I'm passionate about code development, so I'm willing to continually learn new programming languages and explore different fields.</p>
+</b>
 <br>
 
-<h2> My Stack </h2>
+<h2>My Stack</h2>
 <p align="left">
   <code><img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/></code>
   <code><img height=30 src="https://raw.githubusercontent.com/fortran-lang/fortran-lang.org/be10cecc096dac6a57b13fae65b4a6ffa6cc32dd/assets/img/fortran-logo.svg"/></code>
@@ -19,7 +20,7 @@
   <code><img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></code>
 </p>
 
-<h5 align="left">But I know a little:</h5>
+<b><p align="left">But I know a little:</p></b>
 <p align="left">
   <code><img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></code>
   <code><img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/></code>
@@ -51,13 +52,10 @@
 <div align="right">
   <h3> My other profiles 👇🏼</h3>
   <a href="https://www.linkedin.com/in/jguarato/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30"/></a>
+  <a href="http://lattes.cnpq.br/3055484523741519" target="blank"><img src="http://www.cchla.ufpb.br/proling/wp-content/uploads/2021/11/icone-lattes-1.png" height="30" width="30"/></a>
   <a href="https://codepen.io/jguarato" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" height="30" width="30"/></a>
   <a href="https://www.freecodecamp.org/jguarato" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/freecodecamp.svg" height="30" width="30"/></a>
   <a href="https://leetcode.com/jguarato/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" height="30" width="30"/></a>
-  <a href="http://lattes.cnpq.br/3055484523741519" target="blank"><img src="http://www.cchla.ufpb.br/proling/wp-content/uploads/2021/11/icone-lattes-1.png" height="30" width="30"/></a>
-  <a 
-  </a>
-  </a>
 </div>
 
 
