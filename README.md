@@ -14,13 +14,13 @@
   <code><img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/></code>
   <code><img height=30 src="https://raw.githubusercontent.com/fortran-lang/fortran-lang.org/be10cecc096dac6a57b13fae65b4a6ffa6cc32dd/assets/img/fortran-logo.svg"/></code>
   <code><img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"/></code>
+  <code><img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></code>
   <code><img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/></code>
   <code><img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></code>
 </p>
 
 <h5 align="left">But I know a little:</h5>
 <p align="left">
-  <code><img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></code>
   <code><img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></code>
   <code><img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/></code>
   <code><img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/></code>
