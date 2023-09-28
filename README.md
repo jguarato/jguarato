@@ -6,7 +6,7 @@
 <b>
   <p align="left"> 👩🏻‍🎓 I'm an aeronautical engineer with a PhD degree in the field of Fluid Mechanics.</p>
   <p align="left"> 👩🏻‍💻 I have experience in scientific programming with a main focus on Computational Fluid Dynamics (CFD).</p>
-  <p align="left"> 💙 I'm passionate about code development, so I'm willing to continually learn new programming languages and explore different fields.</p>
+  <p align="left"> 💙 I'm passionate about programming, so I'm willing to continually learn new languages and explore different fields.</p>
 </b>
 <br>
 
