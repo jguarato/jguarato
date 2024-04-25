@@ -12,22 +12,19 @@
 
 <h2>My Stack</h2>
 <p align="left">
+  <code><img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></code>
+  <code><img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></code>
   <code><img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/></code>
   <code><img height=30 src="https://raw.githubusercontent.com/fortran-lang/fortran-lang.org/be10cecc096dac6a57b13fae65b4a6ffa6cc32dd/assets/img/fortran-logo.svg"/></code>
   <code><img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"/></code>
-  <code><img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></code>
-  <code><img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/></code>
   <code><img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></code>
-</p>
-
-<b><p align="left">But I know a little:</p></b>
-<p align="left">
   <code><img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></code>
   <code><img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/></code>
   <code><img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/></code>
-  <code><img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/></code>
   <code><img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/></code>
-  <code><img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></code>
+  <code><img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/></code>
+  <code><img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/></code>
+  <code><img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg"/></code>
 </p>
 
 <br>
