@@ -54,8 +54,8 @@
   <a href="https://www.linkedin.com/in/jguarato/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30"/></a>
   <a href="http://lattes.cnpq.br/3055484523741519" target="blank"><img src="http://www.cchla.ufpb.br/proling/wp-content/uploads/2021/11/icone-lattes-1.png" height="30" width="30"/></a>
   <a href="https://codepen.io/jguarato" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" height="30" width="30"/></a>
-  <a href="https://www.freecodecamp.org/jguarato" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/freecodecamp.svg" height="30" width="30"/></a>
-  <a href="https://leetcode.com/jguarato/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" height="30" width="30"/></a>
+<!--   <a href="https://www.freecodecamp.org/jguarato" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/freecodecamp.svg" height="30" width="30"/></a> -->
+<!--   <a href="https://leetcode.com/jguarato/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" height="30" width="30"/></a> -->
 </div>
 
 
