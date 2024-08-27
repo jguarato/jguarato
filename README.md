@@ -6,7 +6,7 @@
 <b>
   <p align="left"> 👩🏻‍🎓 I'm an aeronautical engineer with a PhD degree in the field of Fluid Mechanics.</p>
   <p align="left"> 👩🏻‍💻 I have experience in scientific programming with a main focus on Computational Fluid Dynamics (CFD).</p>
-  <p align="left"> 👩🏻‍💼 I currently work as a developer of scientific software written in Python.</p>
+  <p align="left"> 👩🏻‍💼 I currently work as a developer of engineering software written in Python (<a href="https://github.com/petrobras/ross" target="blank">See ROSS repository</a>).</p>
   <p align="left"> ⚙️ But I have also been developing personal projects with Vue and Electron frameworks.</p>
 <!--   <p align="left"> 💙 I'm passionate about programming, so I'm willing to continually learn new languages and explore different fields.</p> -->
 </b>
@@ -37,7 +37,7 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jguarato&title_color=4b959f&icon_color=85D3DD&bg_color=f6f8fa&show_icons=true&hide_border=true" alt="jguarato"/>
   <img width="10em"/>
-  <img  height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=jguarato&layout=compact&title_color=4b959f&bg_color=f6f8fa&hide_border=true"/>
+  <img height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=jguarato&layout=compact&title_color=4b959f&bg_color=f6f8fa&hide_border=true"/>
 </p>
 
 <br>
