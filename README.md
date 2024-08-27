@@ -7,7 +7,7 @@
   <p align="left"> 👩🏻‍🎓 I'm an aeronautical engineer with a PhD degree in the field of Fluid Mechanics.</p>
   <p align="left"> 👩🏻‍💻 I have experience in scientific programming with a main focus on Computational Fluid Dynamics (CFD).</p>
   <p align="left"> 👩🏻‍💼 I currently work as a developer of engineering software written in Python (<a href="https://github.com/petrobras/ross" target="blank">See ROSS repository</a>).</p>
-  <p align="left"> ⚙️ But I have also been developing personal projects with Vue and Electron frameworks.</p>
+  <p align="left"> ⚙️ But I have also been developing other projects with Vue and Electron frameworks.</p>
 <!--   <p align="left"> 💙 I'm passionate about programming, so I'm willing to continually learn new languages and explore different fields.</p> -->
 </b>
 <br>
